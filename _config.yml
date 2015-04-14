@@ -93,5 +93,9 @@ disqus_show_comment_count: false
 # Google Analytics
 google_analytics_tracking_id:
 
-# Facebook Like
-facebook_like: false
+#Personal Config
+url: http://kirachen.com
+title: 润物无声
+subtitle: 天空一朵雨做的云
+author: Carey Chow
+description:

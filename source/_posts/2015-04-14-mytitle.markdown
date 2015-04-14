@@ -1,0 +1,8 @@
+---
+layout: post
+title: "myTitle"
+date: 2015-04-14 22:41:55 +0800
+comments: true
+categories: 
+---
+I'm very happy!

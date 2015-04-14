@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://kira-chen.github.io/atom.xml" rel="self"/>
-  <link href="http://kira-chen.github.io/"/>
-  <updated>2015-04-14T23:35:13+08:00</updated>
-  <id>http://kira-chen.github.io/</id>
+  <title><![CDATA[润物无声]]></title>
+  <link href="http://kirachen.com/atom.xml" rel="self"/>
+  <link href="http://kirachen.com/"/>
+  <updated>2015-04-14T23:57:07+08:00</updated>
+  <id>http://kirachen.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Carey Chow]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[myTitle]]></title>
-    <link href="http://kira-chen.github.io/blog/2015/04/14/mytitle/"/>
+    <link href="http://kirachen.com/blog/2015/04/14/mytitle/"/>
     <updated>2015-04-14T22:41:55+08:00</updated>
-    <id>http://kira-chen.github.io/blog/2015/04/14/mytitle</id>
+    <id>http://kirachen.com/blog/2015/04/14/mytitle</id>
     <content type="html"><![CDATA[<p>I&rsquo;m very happy!</p>
 ]]></content>
   </entry>

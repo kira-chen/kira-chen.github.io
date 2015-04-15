@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://kirachen.com/sitemap.xml 
+Sitemap: http://kira-chen.github.io/sitemap.xml 

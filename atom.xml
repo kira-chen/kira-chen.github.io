@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[润物无声]]></title>
-  <link href="http://kirachen.com/atom.xml" rel="self"/>
-  <link href="http://kirachen.com/"/>
-  <updated>2015-04-14T23:57:07+08:00</updated>
-  <id>http://kirachen.com/</id>
+  <title><![CDATA[部落格 Of KiRaChen]]></title>
+  <link href="http://kira-chen.github.io/atom.xml" rel="self"/>
+  <link href="http://kira-chen.github.io/"/>
+  <updated>2015-04-15T14:14:37+08:00</updated>
+  <id>http://kira-chen.github.io/</id>
   <author>
-    <name><![CDATA[Carey Chow]]></name>
+    <name><![CDATA[KiRa Chen]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[myTitle]]></title>
-    <link href="http://kirachen.com/blog/2015/04/14/mytitle/"/>
-    <updated>2015-04-14T22:41:55+08:00</updated>
-    <id>http://kirachen.com/blog/2015/04/14/mytitle</id>
-    <content type="html"><![CDATA[<p>I&rsquo;m very happy!</p>
+    <title type="html"><![CDATA[利用octopress搭建个人博客]]></title>
+    <link href="http://kira-chen.github.io/blog/2015/04/15/personal-blog/"/>
+    <updated>2015-04-15T14:07:41+08:00</updated>
+    <id>http://kira-chen.github.io/blog/2015/04/15/personal-blog</id>
+    <content type="html"><![CDATA[<p>经历了N久终于把octopress的个人博客搭建成功了。</p>
+
+<p>总重要的一个点在于搭建成功第一次执行rake deploy的时候会有报错：</p>
+
+<blockquote><p>error: failed to push some refs to <a href="https://github.com/kira-chen/kira-chen.github.com.git">https://github.com/kira-chen/kira-chen.github.com.git</a></p></blockquote>
+
+<p>这个问题真的是困扰了几个月，终于参见 <a href="http://www.itzhoulin.com/deploy-a-blog-using-octopress-hosted-in-github/">zhoulin的IT工作之旅</a> 解决了，值得高兴！</p>
 ]]></content>
   </entry>
   
